@@ -1,0 +1,17 @@
+{
+    "schemaVersion": 1,
+    "firmware": {
+        "displayName": "1.11.1 (Compat)",
+        "model": "g2",
+        "enforceModel": true,
+        "type": "DRV",
+        "compatible": [
+            "g2_DRV_STM32F103CxT6",
+            "g2_DRV_AT32F415CxT7"
+        ],
+        "encryption": "encrypted",
+        "md5": {
+            "enc": "1428cde31d14868f5fa04c94d18f9561"
+        }
+    }
+}
